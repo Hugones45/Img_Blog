@@ -1,0 +1,11 @@
+.about {
+    text-align: center;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.about p {
+    color: #aaa;
+    margin-bottom: 2em;
+}
